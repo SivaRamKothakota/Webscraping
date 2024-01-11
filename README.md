@@ -4,4 +4,4 @@ we install scrapy module and create a file in spider folder or use the file i pr
 The folder I named is code and the output from my code will be append to my google spreadsheets.(give your google api credentials and your spreadsheet Name)
 Packages used (Scrapy, gspread, gspread oauth2client).
 run  (scrapy crawl linkedin_jobs) output will be append to spreadsheets.
-
+You can run whole project just cloning srapy_project folder directly to your system and giving your own API credentials.
